@@ -1,0 +1,13 @@
+# Dependencies and machine-local files
+**/node_modules/
+.venv/
+.run/
+**/__pycache__/
+*.py[cod]
+*.tsbuildinfo
+*.log
+.env
+.env.*
+.local-runtime.json
+.DS_Store
+Thumbs.db

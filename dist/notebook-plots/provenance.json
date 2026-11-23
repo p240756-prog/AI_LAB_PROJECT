@@ -1,0 +1,28 @@
+{
+  "source": "Plant_disease_detection.ipynb",
+  "cell_index": 4,
+  "purpose": "Stored Matplotlib sample-image outputs, not accuracy/loss plots",
+  "images": [
+    {
+      "file": "training-sample-1.png",
+      "cell": 4,
+      "output": 1,
+      "width": 446,
+      "height": 433
+    },
+    {
+      "file": "training-sample-2.png",
+      "cell": 4,
+      "output": 3,
+      "width": 446,
+      "height": 433
+    },
+    {
+      "file": "training-sample-3.png",
+      "cell": 4,
+      "output": 5,
+      "width": 446,
+      "height": 433
+    }
+  ]
+}

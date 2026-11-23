@@ -1,0 +1,23 @@
+[
+  {
+    "name": "apple",
+    "download_url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Apple___healthy/0055dd26-23a7-4415-ac61-e0b44ebfaf80___RS_HL%205672.JPG",
+    "source_url": "https://github.com/spMohanty/PlantVillage-Dataset/blob/master/raw/color/Apple___healthy/0055dd26-23a7-4415-ac61-e0b44ebfaf80___RS_HL%205672.JPG",
+    "sha256": "23eff20e99a15cc76627faffb0a16caa451047a2e060e787fa2ec7131df4f5f9",
+    "provenance": "Downloaded from public PlantVillage repository, not copied from user archive"
+  },
+  {
+    "name": "tomato",
+    "download_url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Tomato___Late_blight/0003faa8-4b27-4c65-bf42-6d9e352ca1a5___RS_Late.B%204946.JPG",
+    "source_url": "https://github.com/spMohanty/PlantVillage-Dataset/blob/master/raw/color/Tomato___Late_blight/0003faa8-4b27-4c65-bf42-6d9e352ca1a5___RS_Late.B%204946.JPG",
+    "sha256": "355d9ed5d0212dfc72eeda78118c55966febe086b60ff46fd7702766e92827d3",
+    "provenance": "Downloaded from public PlantVillage repository, not copied from user archive"
+  },
+  {
+    "name": "corn",
+    "download_url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Corn_(maize)___Northern_Leaf_Blight/005318c8-a5fa-4420-843b-23bdda7322c2___RS_NLB%203853%20copy.jpg",
+    "source_url": "https://github.com/spMohanty/PlantVillage-Dataset/blob/master/raw/color/Corn_(maize)___Northern_Leaf_Blight/005318c8-a5fa-4420-843b-23bdda7322c2___RS_NLB%203853%20copy.jpg",
+    "sha256": "314ccd5ea9e83c1589f020ee1be6130bdf9a52b1f70a06250b0bcf79f2c22887",
+    "provenance": "Downloaded from public PlantVillage repository, not copied from user archive"
+  }
+]
